@@ -1,5 +1,5 @@
 # Variables
-COMPOSE = docker-compose -f ./srcs/docker-compose.yml
+COMPOSE = docker compose -f ./srcs/docker-compose.yml
 NAME = inception
 
 # Targets
